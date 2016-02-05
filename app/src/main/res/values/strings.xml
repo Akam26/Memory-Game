@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">S198596Mappe3</string>
+    <string name="velkommen">Velkommen til MemoryGame</string>
+    <string name="regler">Regler \n 1- Når du begynner å spille får du se på alle bildene i 2 sekunder da de hjemme seg. Du må klikke på Knappen Play i actionbaren for å starte tiden og spillet også.\n\n 2- Det ligger 2 bilder av hver dyr som du skal finne.\n\n 3- Når du klikker på den første bilde og den andre hvis de er like de skal vises og hvis de er ikke like da de skal gjemme seg igjen.\n\n 4- Hvis du finner alle bildene da du er vunnet.\n\n 5- Tiden er viktig i dette spillet. High scoren til personen blir fortere ferdig er registrert i highscore listen.\n\n</string>
+    <string name="gratis">Gratulerer</string>
+    <string name="dinscore">"Din score er: "</string>
+    <string name="høgesteScore">"Høyeste Score: "</string>
+</resources>

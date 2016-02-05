@@ -1,0 +1,37 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+
+    <!--<item
+        android:id="@+id/pause"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:title=""
+        android:icon="@drawable/pause" />-->
+
+    <item
+        android:id="@+id/startKnapp"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:title=""
+        android:icon="@drawable/pl" />
+
+    <item
+        android:id="@+id/score"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:title=""
+        android:icon="@drawable/scoring" />
+
+    <item
+        android:id="@+id/close"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:title=""
+        android:icon="@drawable/close" />
+
+
+
+
+</menu>

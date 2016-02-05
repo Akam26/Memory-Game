@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">S198596Mappe3</string>
+    <string name="velkommen">Welcome to MemoryGame</string>
+    <string name="regler">Rules \n 1- When you start playing you will get 2 seconds to view the pieces. You must then press the play button to start the game. \n\n 2- There are two pictures of each animal which you shall correctly pick out.\n\n3- When you click the first image you must click another. If those are the same they will both stay visible, else they will return to blank.\n\n 4- You will win when you have matched all the images correctly.\n\n 5- Time is important in this game. The highscore is based on time and the shorter amount of time used, the better the score.\n\n </string>
+    <string name="gratis">Congratulations</string>
+    <string name="dinscore">"Your score: "</string>
+    <string name="høgesteScore">"Highest Score: "</string>
+</resources>
